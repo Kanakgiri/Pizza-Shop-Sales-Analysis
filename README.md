@@ -2,7 +2,7 @@
 
 ## Purposes Of The Project
 
-In this project, I have utilized sql queries to solve the questions that were related to pizza sale.
+In this project, I have utilized SQL queries to solve the questions that were related to pizza sale.
 
 ## About Data
 
