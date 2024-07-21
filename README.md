@@ -1,6 +1,6 @@
 # Pizza Shop Sales Analysis
 
-## Purposes Of The Project
+## Purpose Of The Project
 
 In this project, I have utilized SQL queries to solve the questions that were related to pizza sale.
 
